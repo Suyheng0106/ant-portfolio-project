@@ -1,0 +1,70 @@
+
+    body {
+        background-color: #fdf8f2;
+        font-family: 'Mulish', sans-serif;
+        color: #1a1208;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .text-primary-custom {
+        color: #c1440e !important;
+    }
+
+    .bg-primary-custom {
+        background-color: #c1440e !important;
+    }
+
+    .bg-primary-light {
+        background-color: #fdeee7 !important;
+    }
+
+    .bg-page {
+        background-color: #fdf8f2 !important;
+    }
+
+    .text-subtle {
+        color: #8a7f6e !important;
+    }
+
+    .border-soft {
+        border-color: #e8e0d0 !important;
+    }
+
+    /* Hover */
+    .btn.bg-primary-custom:hover {
+        background-color: #a33a0c !important;
+        color: #fff !important;
+    }
+
+    .btn.bg-primary-light:hover {
+        background-color: #fad9ca !important;
+    }
+
+    .navbar a:hover {
+        color: #c1440e !important;
+    }
+
+    .card-lift {
+        transition: .25s;
+    }
+
+    .card-lift:hover {
+        box-shadow: 0 10px 30px rgba(193, 68, 14, 0.12);
+        transform: translateY(-4px);
+    }
+
+    .pill-hover {
+        transition: .2s;
+    }
+
+    .pill-hover:hover {
+        border-color: #c1440e !important;
+        color: #c1440e !important;
+    }
+
+    .link-blue:hover {
+        color: #c1440e !important;
+    }
